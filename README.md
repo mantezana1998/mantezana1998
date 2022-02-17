@@ -1,8 +1,7 @@
 ### Hello, I'm Max 👋
 
-- 🔭 I’m currently working on **TDE Music Player**
-- 🌱 I’m currently learning **Cloud Foundations**
-- 💬 Ask me about **Only Grams** & **TDE Music Player**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Yo hablo Español, Aleman, e Ingles.
-- [Visit Portfolio Page](https://mantezana1998.github.io/portfolio/)
+🔭 I’m currently working on **TDE Music Player**
+🌱 I’m currently learning **Cloud Foundations**
+Pronouns: He/Him
+⚡ Fun fact: Yo hablo 🇵🇪 Español 🇲🇽, Aleman 🇩🇪, e Ingles 🇺🇸.
+[Portfolio](https://mantezana1998.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/antezana-max/)
